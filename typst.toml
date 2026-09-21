@@ -1,0 +1,11 @@
+[package]
+name = "roster"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["J. Adly <youssefadly237@gmail.com>"]
+license = "MIT"
+description = "a timetable maker"
+exclude = [
+  "example",
+  "justfile",
+]
